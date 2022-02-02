@@ -1,0 +1,40 @@
+.store{
+    box-shadow: 5px 5px 5px gray;
+    width: 90%;
+    height: 300px;
+    margin: 50px;
+    border: 1px solid black;
+    position: relative;
+}
+
+.image-store{
+    height: 200px;
+    width: 200px;
+ 
+    margin: 50px;
+    float: left;
+}
+
+.image-store2{
+    height: 200px;
+    width: 200px;
+   
+    margin: 50px;
+    float: left;
+    position: absolute;
+    right: 30px;
+    
+}
+
+.image-store img, .image-store2 img,#box img{
+    height: 100%;
+    width: 100%;
+}
+
+#box{
+    height: 500px;
+    width: 400px;
+    position: fixed;
+    left:36%;
+    top: 5px;
+}

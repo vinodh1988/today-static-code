@@ -1,0 +1,27 @@
+li{
+    list-style-type: circle;
+    color: blue;
+    font-family: arial;
+}
+
+#list2 li{
+    list-style-type: square;
+    color: darkred;
+    border: 2px solid black;
+    padding: 5px;
+    font-family: arial;
+    width: 150px;
+    margin: 10px;
+}
+
+#list3 li{
+    list-style-type: none;
+    color: green;
+    background-color: orange;
+    border: 2px solid black;
+    padding: 5px;
+    font-family: arial;
+    width: 150px;
+    margin: 10px;
+    float: left;
+}
