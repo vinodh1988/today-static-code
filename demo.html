@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <script src="scripts/script.js"></script>
+        <link href="styles/fresh.css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="image-container">
+            <img src="mickey.png">
+            <button onClick="changePicture()" id="button1">Change pic</button>
+        </div>
+        <div id="form">
+            <form>
+                Select a Color <input type="color" name="original" onClick="setValue()">
+                <input type="text" name="boxcolor">
+                <button type="button" onClick="formValidation()" id="button2">Change Color</button>
+                <div id="validation-message"></div>
+            </form>
+           </div>
+    </body>
+
+</html>
