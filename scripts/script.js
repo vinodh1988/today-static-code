@@ -45,7 +45,7 @@ function changePicture1(){
     document.getElementById("button1").src=pics[index];
  }
  function setValue(){
-    document.forms[0].boxcolor.value=document.forms[0].original.value;
+    document.forms[0].boxcolor.valueg=document.forms[0].original.value;
  }
  function formValidation(){
      

@@ -1,0 +1,27 @@
+#countdown{
+    height: 300px;
+    width: 300px;
+    background-color: lightblue;
+    margin:200px;
+    position: relative;
+    float: left;
+}
+
+h3{
+    text-align: center;
+    color: darkred;
+    font-family : arial;
+}
+
+#cracker{
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    float: left;
+}
+
+#cracker img{
+    height: 100%;
+    width: 100%;
+   
+}

@@ -1,0 +1,19 @@
+button{
+    border: none;
+    color: white;
+    padding: 5px;
+    background-color: darkred;
+}
+
+input[type="text"]{
+    height: 30px; 
+    width: 150px;
+}
+
+#target{
+    min-height: 300px;
+    width: 500px;
+    background-color: lightgreen;
+    font-family: arial;
+    color: blue;
+}

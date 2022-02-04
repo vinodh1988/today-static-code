@@ -1,0 +1,8 @@
+#one,#two{
+    width: 300px; 
+    height: 300px;
+    background-color: lightblue;
+    color: darkblue;
+    margin: 30px;
+    margin-left: 300px;
+}
